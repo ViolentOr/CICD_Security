@@ -1,0 +1,7 @@
+---
+# You should rename this file to config.yml
+arachni:
+    host: # host ip where REST interface is up
+    port: # port where REST interface is up
+    user: # username, that was used when putting up REST service
+    password: # password, that was used when putting up REST service
